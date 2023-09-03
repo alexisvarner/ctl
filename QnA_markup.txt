@@ -1,0 +1,69 @@
+Title: DACA "Flowchart"
+Author: [your name]
+Before: <link rel="stylesheet" type="text/css" href="https://suffolklitlab.org/howto/qna/style/style.css">
+<div id="icon" style="background-size: 110px 99px;background-image: url('https://suffolklitlab.org/howto/qna/images/maxheadroom.gif');"></div>
+<h2 style="text-align:center;">DACA "Flowchart"</h2>
+<p><b>This is a <a href="https://www.codingthelaw.org/#mission">class project</a>. You should not rely on it as a source of legal information!</b></p>
+<p>Answer the following questions to see if someone qualifies for DACA.</p>
+
+Q(1): Were you born on or after June 16, 1981?
+A: Yes
+	Q(1.1): Did you enter the US before your sixteenth birthday?
+	A: Yes
+		Q(1.1.1): Where you in the US on June 15, 2012?
+		A: Yes
+			Q(1.1.1.1): Have you continuously resided in the US since June 15, 2007?
+			A: Yes
+				Q(1.1.1.1.1): Were you out of Status on June 15, 2012?
+				A: Yes
+					Q(1.1.1.1.1.1): Have you been convicted of a felony or a significant misdemeanor?
+					A: Yes
+						Q(1.1.1.1.1.1.1): Ineligible
+					A: No
+						Q(1.1.1.1.1.1.2): Have you been convicted of more than one misdemeanor?
+						A: Yes
+							Q(1.1.1.1.1.1.2.1): Ineligible
+						A: No
+							Q(1.1.1.1.1.1.2.2): Do you pose a threat to national security or public safety?
+							A: Yes
+								Q(1.1.1.1.1.1.2.2.1): Ineligible
+							A: No
+								Q(1.1.1.1.1.1.2.2.2): Are you currently in school?
+								A: Yes
+									Q(1.1.1.1.1.1.2.2.2.1): Are you 15 or older?
+									A: Yes 
+										Q(1.1.1.1.1.1.2.2.2.1.1): Eligible
+									A: No
+										Q(1.1.1.1.1.1.2.2.2.1.2): Are you currently in removal proceedings, or have a final removal or VD order?
+										A: Yes 
+											Q(1.1.1.1.1.1.2.2.2.1.2.1): Eligible
+										A: No
+											Q(1.1.1.1.1.1.2.2.2.1.2.2): Wait
+								A: No
+									Q(1.1.1.1.1.1.2.2.2.2): Do you have a HS diploma or GED?
+									A: Yes
+										Q(1.1.1.1.1.1.2.2.2.2.1): Are you 15 or older?
+										A: Yes 
+											Q(1.1.1.1.1.1.2.2.2.2.1.1): Eligible
+										A: No
+											Q(1.1.1.1.1.1.2.2.2.2.1.2): Are you currently in removal proceedings, or have a final removal or VD order?
+											A: Yes 
+												Q(1.1.1.1.1.1.2.2.2.2.1.2.1): Eligible
+											A: No
+												Q(1.1.1.1.1.1.2.2.2.2.1.2.2): Wait
+									A: No
+										Q(1.1.1.1.1.1.2.2.2.2.2): Are you an honorably discharged veteran of the Coast Guard or Armed  Forces of the US?
+										A: Yes
+											Q(1.1.1.1.1.1.2.2.2.2.2.1): Eligible 
+										A: No
+											Q(1.1.1.1.1.1.2.2.2.2.2.2): Wait
+				A: No
+					Q(1.1.1.1.1.2): Ineligible
+			A: No
+				Q(1.1.1.1.2): Ineligible
+		A: No
+			Q(1.1.1.2): Ineligible
+	A: No
+		Q(1.1.2): Ineligible
+A: No
+	Q(1.2): Ineligible
